@@ -5,4 +5,6 @@
 
 ## 1.[Bootstrap中文网](http://www.bootcss.com)     ([Boostrap英文网](http://getbootstrap.com))
 
+Bootstrap 是最受欢迎的 HTML、CSS 和 JS 框架，用于开发响应式布局、移动设备优先的 WEB 项目。
+
 ![Bootstrap](https://github.com/Eaaon/The-front-end-UI-framework/blob/master/imgs/Bootstrap.png)
