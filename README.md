@@ -33,3 +33,22 @@ Bootstrap 是最受欢迎的 HTML、CSS 和 JS 框架，用于开发响应式布
 Foundation 在这份列表中是第二大选择。该框架有一个真正强大、而且很棒的基础。此外，有很多大网站在使用该框架，包括：Facebook, Mozilla, Ebay, Yahoo! 以及国家地理杂志等等。
 
 ![Foundation](https://github.com/Eaaon/The-front-end-UI-framework/blob/master/imgs/Foundation.png)
+
+* 所属: ZURB
+* 发布时间: 2011
+* 当前时间:6.3.1
+* 受欢迎程度: 在 Github 收获 25,400 个点赞
+* 描述: “最高级的响应式前端框架”
+* 核心概念: RWD, 移动优先，语义化
+* 框架体积: 197.5 KB
+* 预处理器: Sass
+* 响应式: Yes
+* 模块化: Yes
+* 模板/布局: Yes
+* 图标集:Foundation Icon Fonts
+* 插件/扩展: Yes
+* 独特组件: Icon Bar, Clearing Lightbox, Flex Video, Keystrokes, Joyride, Pricing Tables
+* 文档: 好，提供很多额外资源
+* 定制: 基本的 GUI 定制器，类似 Bootstrap 那款
+* 浏览器支持: Chrome, Firefox, Safari, IE9+; iOS, Android, Windows Phone 7+
+* 许可证: MIT
