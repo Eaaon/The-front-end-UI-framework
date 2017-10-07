@@ -28,8 +28,8 @@ Bootstrap 是最受欢迎的 HTML、CSS 和 JS 框架，用于开发响应式布
 * 浏览器支持: Firefox, Chrome, Safari, IE8+ (IE 8 需要 Respond.js )
 * 许可证:MIT
 
-## 1.[Bootstrap中文网](http://www.bootcss.com)     ([Boostrap英文网](http://getbootstrap.com))
+## 1.[Foundation](https://foundation.zurb.com/)
 
-Bootstrap 是最受欢迎的 HTML、CSS 和 JS 框架，用于开发响应式布局、移动设备优先的 WEB 项目。
+Foundation 在这份列表中是第二大选择。该框架有一个真正强大、而且很棒的基础。此外，有很多大网站在使用该框架，包括：Facebook, Mozilla, Ebay, Yahoo! 以及国家地理杂志等等。
 
-![Bootstrap](https://github.com/Eaaon/The-front-end-UI-framework/blob/master/imgs/Bootstrap.png)
+![Foundation](https://github.com/Eaaon/The-front-end-UI-framework/blob/master/imgs/Foundation.png)
