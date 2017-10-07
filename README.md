@@ -9,7 +9,7 @@ Bootstrap 是最受欢迎的 HTML、CSS 和 JS 框架，用于开发响应式布
 
 ![Bootstrap](https://github.com/Eaaon/The-front-end-UI-framework/blob/master/imgs/Bootstrap.png)
 
-* 作者:Mark Otto and Jacob Thornton.
+* 作者:[Mark Otto](https://github.com/mdo) and [Jacob Thornton](https://github.com/fat).
 * 发布时间: 2011
 * 当前版本: 3.3.7
 * 普及程序: 在 Github 上获得 111,000 个点赞
@@ -28,7 +28,7 @@ Bootstrap 是最受欢迎的 HTML、CSS 和 JS 框架，用于开发响应式布
 * 浏览器支持: Firefox, Chrome, Safari, IE8+ (IE 8 需要 Respond.js )
 * 许可证:MIT
 
-## 1.[Foundation](https://foundation.zurb.com/)
+## 2.[Foundation](https://foundation.zurb.com/)
 
 Foundation 在这份列表中是第二大选择。该框架有一个真正强大、而且很棒的基础。此外，有很多大网站在使用该框架，包括：Facebook, Mozilla, Ebay, Yahoo! 以及国家地理杂志等等。
 
@@ -51,4 +51,29 @@ Foundation 在这份列表中是第二大选择。该框架有一个真正强大
 * 文档: 好，提供很多额外资源
 * 定制: 基本的 GUI 定制器，类似 Bootstrap 那款
 * 浏览器支持: Chrome, Firefox, Safari, IE9+; iOS, Android, Windows Phone 7+
+* 许可证: MIT
+
+## 3.[Semantic UI](https://semantic-ui.com)
+
+Semantic UI 一直在持续发展，构建更具语义的 Web 网站。其利用自然语言原则，使得代码更加具备可读性和易于理解。
+
+![Semantic UI](https://github.com/Eaaon/The-front-end-UI-framework/blob/master/imgs/SemanticUI.png)
+
+* 作者:[Jack Lukic](https://github.com/jlukic)
+* 发布时间: 2013
+* 当前版本: 2.2
+* 受欢迎程度: 在 Github 上获得 34,762 个赞
+* 项目描述: “一个 UI 组件框架，基于自然语言特点”
+* 核心概念: 语义、标签、响应式
+* 框架提及: 806 KB
+* 预处理器: Less
+* 响应式: Yes
+* 模块化: Yes
+* 模板布局: 支持，提供一些基础模板
+* 图标集: Font Awesome
+* 扩展、插件: No
+* 独特组件: Divider, Flag, Rail, Reveal, Step, Advertisement, Card, Feed, Item, Statistic, Dimmer, Rating, Shape.
+* 文档: 非常棒，组织良好，提供入门、定制和主题创建.
+* 定制: 不提供 GUI 定制器，只有手工定制
+* 浏览器支持: Firefox, Chrome, Safari, IE10+ (IE9 with browser prefix only), Android 4, Blackberry 10
 * 许可证: MIT
