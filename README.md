@@ -9,7 +9,8 @@ Bootstrap 是最受欢迎的 HTML、CSS 和 JS 框架，用于开发响应式布
 
 ![Bootstrap](https://github.com/Eaaon/The-front-end-UI-framework/blob/master/imgs/Bootstrap.png)
 
-* [关于 Markdown]
+* 关于 Markdown
+
 作者:Mark Otto and Jacob Thornton.
 发布时间: 2011
 当前版本: 3.3.7
