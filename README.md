@@ -55,7 +55,7 @@ Foundation 在这份列表中是第二大选择。该框架有一个真正强大
 
 ## 3.[Semantic UI](https://semantic-ui.com)
 
-Semantic UI 一直在持续发展，构建更具语义的 Web 网站。其利用自然语言原则，使得代码更加具备可读性和易于理解。
+Semantic UI 一直在持续发展，构建更具语义的 Web 网站。其利用自然语言原则，使得代码更加具备可读性和易于理解。Semantic 是最具创新以及全功能的框架。框架的整体结构和命名都有明确的逻辑和语义，在这方面碾压其他框架。
 
 ![Semantic UI](https://github.com/Eaaon/The-front-end-UI-framework/blob/master/imgs/SemanticUI.png)
 
@@ -77,8 +77,6 @@ Semantic UI 一直在持续发展，构建更具语义的 Web 网站。其利用
 * 定制: 不提供 GUI 定制器，只有手工定制
 * 浏览器支持: Firefox, Chrome, Safari, IE10+ (IE9 with browser prefix only), Android 4, Blackberry 10
 * 许可证: MIT
-
-Semantic 是最具创新以及全功能的框架。框架的整体结构和命名都有明确的逻辑和语义，在这方面碾压其他框架。
 
 ## 4.[Pure](https://purecss.io)
 
@@ -104,3 +102,34 @@ Pure 是一个轻量级、模块化的框架，使用纯 CSS 编写，其包括�
 * 定制: 基本的 GUI 皮肤构建器
 * 浏览器支持: Latest versions of Firefox, Chrome, Safari; IE7+; iOS 6.x, 7.x; Android 4.x
 * 许可证:Yahoo! Inc. BSD
+
+## 5.[UIkit](https://getuikit.com)
+
+UIkit 是一个易于使用和定制的简单组件集合。虽然与其竞争对手比较，受欢迎程度没那么高，但是它同样提供了相同的功能和质量。
+
+![UIkit](https://github.com/Eaaon/The-front-end-UI-framework/blob/master/imgs/UIkit.png)
+
+* 所属:YOOtheme
+* 发布时间: 2013
+* 当前版本: 3.0.0
+* 受欢迎程度: 在 Github 收获 9,422 个点赞
+* 描述: “一个轻量级模块化的前端框架，用于快速开发强大的 Web 界面”
+* 核心概念: RWD, 移动优先
+* 框架提及: 326.9 KB (384.4 KB 如果包含 uikit-icons.min.js 和相关 SVG 图标时)
+* 预处理器: Less, Sass
+* 响应式: Yes
+* 模块化: Yes
+* 模板/布局: Yes
+* 图标集: UIkit 包含自己的 SVG 图标系统和库
+* 插件/扩展: Yes
+* 独特组件: Article, Flex, Cover, HTML Editor
+* 文档: Good
+* 定制: 高级 GUI 定制器，只在版本 2 中提供
+* 浏览器支持: Chrome, Firefox, Safari, IE9+
+* 许可证: MIT
+
+## 6.[Milligram](http://milligram.io)
+
+Milligram 提供了极简样式设置，便于你快速、简洁的开启建站之旅。虽然它不是一个 UI 框架，但它的设计理念却是以提供优秀的性能、高效的开发效率以及最少的属性重置而构建的。同时，它也是轻量的，在 Gzip 压缩后，它只有 2KB 大小。
+
+![Milligram](https://github.com/Eaaon/The-front-end-UI-framework/blob/master/imgs/Milligram.png)
